@@ -11,3 +11,8 @@
   * pd.read_csv, 
   * .shape, .iloc, .loc, .iterrows, .unique
   * .filter, .sort_values
+
+3. [matplotlib - pyplot](https://github.com/psrozek/data-science-3/blob/main/pyplot.ipynb)
+  * plt.figure, plt.show
+  * plt.plot, plt.bar, plt.pie, plt.stackplot, plt.hist, plt.boxplot, plt.scatter
+  * subplots, gridspec
