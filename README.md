@@ -16,3 +16,10 @@
   * plt.figure, plt.show
   * plt.plot, plt.bar, plt.pie, plt.stackplot, plt.hist, plt.boxplot, plt.scatter
   * subplots, gridspec
+
+4. [seaborn](https://github.com/psrozek/data-science-3/blob/main/seaborn.ipynb)
+  * sns.set, sns.set_style, sns.despine
+  * sns.color_palette, sns.heatmap
+  * sns.boxplot, sns.violinplot, sns.regplot
+  * sns.FacetGrid
+  * squarify
